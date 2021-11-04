@@ -8,20 +8,20 @@
   color: #61122f;
 }
 body {
-  background-color: #61122f;
-  color: white;
+  background-color: #1d3557;
+  color: #f1faee;
 }
 .glyphicon {
   font-size: 30px;
-  color: #61122f;
+  color: #d62828;
 }
 
 .center {
   width: 90%;
-  background-color: grey;
+  background-color: #a8dadc;
 }
 .container {
-  background-color: grey;
+  background-color: #457b9d;
 }
 .text-center {
   font-size: 30px;
@@ -31,7 +31,7 @@ h2 {
   text-align: center;
 }
 #myNavbar ul li a {
-  color: #61122f;
+  color: #e63946;
 }
 .navbar-brand {
   font-size: 30px;
